@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this dataset or report, please cite it as below."
+title: "Project Will: Observations #2–#3 — 32 autonomous LLM villagers with integrated memory, no institutions"
+authors:
+  - name: "Monocola (モノコーラ)"
+type: dataset
+license: CC-BY-4.0
+date-released: 2026-08-21
+doi: 10.5281/zenodo.XXXXXXXX
