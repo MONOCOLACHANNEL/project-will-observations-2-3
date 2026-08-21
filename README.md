@@ -1,6 +1,6 @@
 # Project Will — 観測 #2・#3 データセット（2026-08-10 / 2026-08-11 ロングラン×2）
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX) <!-- TODO: Release後にZenodoの全バージョンDOIへ差し替え -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22040887.svg)](https://doi.org/10.5281/zenodo.22040887)
 
 🌐 **English summary: [README_EN.md](README_EN.md)**
 
@@ -50,8 +50,8 @@ python tools/find.py 石材置き場
 
 本データセットは **Project Will シリーズ**（著者: モノコーラ / Monocola）の第2弾であり、[観測 #1](https://github.com/MONOCOLACHANNEL/project-will-observation-1)（DOI [10.5281/zenodo.21723921](https://doi.org/10.5281/zenodo.21723921)）と同一著者による継続観測です。引用は [CITATION.cff](CITATION.cff) を参照：
 
-> Monocola (モノコーラ). (2026). Project Will: Observations #2–#3 — 32 autonomous LLM villagers with integrated memory, no institutions [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX <!-- TODO: Release後に確定DOIへ -->
+> Monocola (モノコーラ). (2026). Project Will: Observations #2–#3 — 32 autonomous LLM villagers with integrated memory, no institutions [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.22040887
 
-（DOI は全バージョンを指し、常に最新版へ解決します。シリーズ全体に言及する場合は観測 #1 の DOI と併記してください。質問・指摘は GitHub Issue へ）
+（DOI は全バージョンを指し、常に最新版へ解決します。特定版は v1.0 = 10.5281/zenodo.22040888。シリーズ全体に言及する場合は観測 #1 の DOI と併記してください。質問・指摘は GitHub Issue へ）
 
 ライセンス：データ・文書 **CC BY 4.0** ／ スクリプト **MIT**（[LICENSE](LICENSE)）

@@ -1,6 +1,6 @@
 # Project Will — Observations #2–#3 Dataset (2026-08-10 / 2026-08-11)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX) <!-- TODO: replace after release -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22040887.svg)](https://doi.org/10.5281/zenodo.22040887)
 
 Full logs and analyses of two 6-hour runs of 32 autonomous LLM villagers in Minecraft, given **no institutions** (no assigned roles, no shared rules, no contract machinery) but — unlike [Observation #1](https://github.com/MONOCOLACHANNEL/project-will-observation-1) — equipped with an **integrated memory & cognition system ("NOESIS")**: verbatim episodic memory with semantic recall, nightly "dreams" that replay past episodes, grudge ledgers with an explicit *forgive* option, item handover, and writing.
 
@@ -33,7 +33,7 @@ All claims in the video and report can be recomputed from `data/`. Before releas
 
 ## Citation
 
-> Monocola (モノコーラ). (2026). Project Will: Observations #2–#3 — 32 autonomous LLM villagers with integrated memory, no institutions [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX
+> Monocola (モノコーラ). (2026). Project Will: Observations #2–#3 — 32 autonomous LLM villagers with integrated memory, no institutions [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.22040887
 
 Same-author series: Observation #1 — https://doi.org/10.5281/zenodo.21723921
 

@@ -227,6 +227,6 @@ python tools/find.py 石材置き場
 
 ## 引用
 
-> Monocola (モノコーラ). (2026). Project Will: Observations #2–#3 — 32 autonomous LLM villagers with integrated memory, no institutions [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX
+> Monocola (モノコーラ). (2026). Project Will: Observations #2–#3 — 32 autonomous LLM villagers with integrated memory, no institutions [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.22040887
 
-（上記は全バージョンを指す DOI で、常に最新版へ解決する。DOI は Release 後に確定する。本シリーズは前作と同一著者による継続観測であり、シリーズ全体を参照する場合は前作 DOI 10.5281/zenodo.21723921 と併記されたい）
+（上記は全バージョンを指す DOI で、常に最新版へ解決する。特定版を指す場合は各版の DOI を用いる：v1.0 = 10.5281/zenodo.22040888。本シリーズは前作と同一著者による継続観測であり、シリーズ全体を参照する場合は前作 DOI 10.5281/zenodo.21723921 と併記されたい）
