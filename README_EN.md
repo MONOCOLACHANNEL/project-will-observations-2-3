@@ -21,7 +21,7 @@ This is a continuation of Observation #1 by the same author (Monocola). #1 concl
 
 Observation #2 (2026-08-10) is included in full as the run in which we discovered a measurement confound — 84% of "trespasses" were caused by the system's destination sampler, not by villagers — which we fixed before running #3. We treat this discovery as part of the methodology.
 
-All claims in the video and report can be recomputed from `data/`. Before release, every major claim (215 items) was independently re-derived and adversarially verified; the full audit ledger (151 confirmed / 45 revised / 19 refuted, with old vs. corrected values) ships in `analysis_obs3/VERIFICATION_LEDGER_20260820.md`.
+All claims in the video and report can be recomputed from `data/`. Before release, every major claim (215 items) was independently re-derived and adversarially verified; the full audit ledger (151 confirmed / 45 revised / 19 refuted, with old vs. corrected values) ships in `VERIFICATION_LEDGER_20260820.md`.
 
 ## Files
 

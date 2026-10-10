@@ -44,7 +44,7 @@ python tools/find.py 石材置き場
 | [DATA.md](DATA.md) | データ辞書と既知の注意点 |
 | [NOESIS.md](NOESIS.md) | 追加した記憶システムの設計 |
 | [METHOD_AND_LIMITS.md](METHOD_AND_LIMITS.md) | 計測の限界・実装欠陥の正直な開示 |
-| [analysis_obs3/VERIFICATION_LEDGER_20260820.md](analysis_obs3/VERIFICATION_LEDGER_20260820.md) | **公開前の全数再検証台帳（215項目・旧値→正値の全件）** |
+| [VERIFICATION_LEDGER_20260820.md](VERIFICATION_LEDGER_20260820.md) | **公開前の全数再検証台帳（215項目・旧値→正値の全件）** |
 
 ## 著者と引用
 
